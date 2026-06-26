@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "my-server": {
+      "command": "npx",
+      "args": ["-y", "some-mcp-package"]
+    }
+  }
+}
