@@ -1,3 +1,3 @@
-let a = 10;
-
-a = 30;
+let x = 10;
+let y = 20;
+console.log(y)
