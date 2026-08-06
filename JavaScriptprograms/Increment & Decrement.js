@@ -1,0 +1,18 @@
+let x = 5;
+let y = 10;
+let z = 15;
+console.log(x);
+console.log(y);
+console.log(z);
+    x++;
+    console.log(x);
+    x--;
+    console.log(x);
+    y++;
+    console.log(y);
+    y--;
+    console.log(y);
+    z++;
+    console.log(z);
+    z--;
+    console.log(z);

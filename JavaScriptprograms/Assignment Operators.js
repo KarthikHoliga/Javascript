@@ -1,0 +1,14 @@
+ let x = 95;
+ let y = 5;
+ let z = 10;
+    x += 5;
+    y += 10;
+    console.log(x);
+    console.log(y);
+    console.log(z);
+    x *= 3;
+    y *= 2;
+    z *= 4;
+    console.log(x);
+    console.log(y);
+    console.log(z);
