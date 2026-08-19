@@ -1,7 +1,4 @@
-let singleQuote: string = 'Hello';
-let doubleQuote: string = "Hello";
-let backtick: string = `Hello`;
+let num5 = 10
 
-console.log(singleQuote);
-console.log(doubleQuote);
-console.log(backtick);
+console.log(++num5)
+console.log(num5++)
