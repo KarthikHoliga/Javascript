@@ -1,15 +1,40 @@
 {
+<<<<<<< HEAD
   "name": "programs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
+=======
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthik-123-rss/Javascript.git"
+  },
+>>>>>>> e1ba3dd7d6a908b2bd1508e51500af554f48b0ef
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+<<<<<<< HEAD
   "devDependencies": {
     "@playwright/test": "^1.62.1",
     "@types/node": "^26.1.1"
+=======
+  "bugs": {
+    "url": "https://github.com/Karthik-123-rss/Javascript/issues"
+  },
+  "homepage": "https://github.com/Karthik-123-rss/Javascript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "playwright": "^1.61.1",
+    "typescript": "^6.0.3"
+>>>>>>> e1ba3dd7d6a908b2bd1508e51500af554f48b0ef
   }
 }
